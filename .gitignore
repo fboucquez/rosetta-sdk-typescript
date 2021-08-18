@@ -1,0 +1,10 @@
+dist
+/build/
+/*.iml
+/node_modules/
+/.idea/
+/coverage/
+/.nyc_output/
+/cli-data/
+/ts-docs/
+/rosetta-sdk-typescript*.tgz
